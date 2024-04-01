@@ -4,5 +4,7 @@ OWNER MAHTAB AHMAD
 
 
 git clone https://github.com/SK-BAAP-786/INDIA-ONE.git
+
 cd INDIA-ONE
-python INDIA-ONE.py
+git pull
+python clone.py
